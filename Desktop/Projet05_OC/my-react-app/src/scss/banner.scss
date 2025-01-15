@@ -1,0 +1,15 @@
+.banner {
+  img {
+    background-size: cover;
+    border-radius: 25px;
+    filter: brightness(60%);
+  }
+  h1 {
+    position: absolute;
+    font-family: "Montserrat", sans-serif;
+    font-size: 48px;
+    font-weight: 700;
+    text-underline-position: from-font;
+    color: white;
+  }
+}
